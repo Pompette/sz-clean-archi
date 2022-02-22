@@ -7,5 +7,6 @@ Une société doit avoir un id, nom, date de creation.
 L'age d'un employée doit être supérieur a 16 ans.
 
 En tant qu'utilisateur je peux ajouter un employée ainsi que la société pour laquelle il travail.
+test
 
 # sz-clean-archi
